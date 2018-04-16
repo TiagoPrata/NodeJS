@@ -1,8 +1,8 @@
-# Websockets-JSON-POST
-This project display in the browser the data sent via POST method.
+# Real time JSON browser
+This project uses websockets to display in the browser the JSON data sent via POST method in real time.
 
 ## How to
-* Execute `index.js`
+* Execute `node index.js`
 * Open browser in `http://localhost:4000/`
 
 ![alt text](./images/browser.png)
